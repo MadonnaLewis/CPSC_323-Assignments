@@ -74,7 +74,7 @@ int isNumber(char buffer[])
 int main()
 {
     // Assign variables
-    ifstream fin("input2.txt");
+    ifstream fin("input3.txt");
     int i,j = 0;
     char ch;
     char buffer[20]; 
